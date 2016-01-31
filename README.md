@@ -1,6 +1,6 @@
 # syntaxhighlighter/brush-sass
 
-sass brush module for [SyntaxHighlighter](https://github.com/syntaxhighlighter).
+SASS brush module for [SyntaxHighlighter](https://github.com/syntaxhighlighter).
 
 [![Build Status](https://travis-ci.org/alexgorbatchev/brush-sass.svg)](https://travis-ci.org/alexgorbatchev/brush-sass)
 
