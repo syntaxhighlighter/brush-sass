@@ -1,5 +1,5 @@
 {
-  "name": "brush-sass",
+  "name": "@alexgorbatchev/brush-sass",
   "version": "4.0.0",
   "description": "sass brush module for SyntaxHighlighter.",
   "keywords": [
